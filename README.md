@@ -1,6 +1,6 @@
 
 
-###Hey there, welcome to my 100 Days of Python Coding challenge! 🐍
+### Hey there, welcome to my 100 Days of Python Coding challenge! 🐍
 
 ## What's this all about?
 So, I've decided to embark on this journey to really dive deep into Python programming. Over the next 100 days, I'm going to be learning everything there is to know about Python, from the basics to some more advanced stuff.
